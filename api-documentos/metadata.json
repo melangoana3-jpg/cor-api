@@ -1,0 +1,5 @@
+{
+  "name": "API de Documentos - Anastasia Mecheba Melango",
+  "description": "Un sistema robusto de gestión de documentos con backend Node.js, base de datos SQLite, pipeline CI/CD avanzado y panel de control React para visualización de métricas y documentación.",
+  "requestFramePermissions": []
+}
